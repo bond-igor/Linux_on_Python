@@ -1,0 +1,13 @@
+folder_in: /home/user2/tst
+folder_out: /home/user2/out
+folder_ext: /home/user2/folder1
+folder_ext2: /home/user2/folder2
+folder_log: /home/user/logs/
+count: 5
+bs: 1M
+ip: 0.0.0.0
+user: user2
+passwd: "2222"
+pkgname: p7zip-full
+pkgname2: libarchive-zip-perl
+type: 7z
